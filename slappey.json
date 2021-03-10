@@ -2,6 +2,6 @@
   "name": "lupinmodbot",
   "language": "javascript",
   "manager": "npm",
-  "token": "ODE4OTkxNjkxMjc1OTYwMzIw.YEgHcw.eMGKihKj4hoMrZSqH3WiMb4vq2k",
+  "token": "token",
   "prefix": "m$"
 }
